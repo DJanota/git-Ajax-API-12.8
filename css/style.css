@@ -115,7 +115,8 @@ body .header-container {
   background-image: url(../Images/background-header1.jpg);
   background-size: cover;
   height: 800px;
-  margin-bottom: 150px;
+  margin-right: -40px;
+  margin-bottom: 120px;
 }
 
 body .header-container .logo {
@@ -166,7 +167,8 @@ body .services {
   background-size: cover;
   height: 400px;
   position: relative;
-  margin-bottom: 100px;
+  margin-right: -40px;
+  margin-bottom: 120px;
 }
 
 body .services .services-fieldset {
@@ -226,6 +228,7 @@ body .what-we-do .product-management h3 {
 
 body .our-works {
   float: left;
+  margin-right: -40px;
   margin-bottom: 150px;
 }
 
