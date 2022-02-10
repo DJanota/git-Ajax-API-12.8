@@ -9,7 +9,7 @@
     "jQuery": "^1.7.4",
     "jquery": "^3.2.1",
     "jshint": "^2.9.5",
-    "node-sass": "^4.7.2",
+    "node-sass": "^7.0.0",
     "nu-html-checker": "^0.1.0",
     "onchange": "^3.3.0",
     "rimraf": "^2.6.2"
